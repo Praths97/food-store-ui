@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Prathibha\virtusa\public\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1350359473.index
-2142670666.index
-2630164217.index
-1755401707.index
-4237057102.index
-3979417592.index
